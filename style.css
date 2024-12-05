@@ -88,14 +88,14 @@ h2{
 }
 
 .one{
-background-image: url('/assests/img/dory.jfif');
+background-image: url('/assets/img/dory.jfif');
 background-size: cover;
 margin-left: 180px;
 border-radius: 20px;
 
 }
 .two{
-    background-image: url('/assests/img/bugs.jpg');
+    background-image: url('/assets/img/bugs.jpg');
     margin-left: 60px;
     background-size: cover;
     border-radius: 20px;
@@ -104,7 +104,7 @@ border-radius: 20px;
 
 }
 .three{
-    background-image: url('/assests/img/rat.jpeg');
+    background-image: url('/assets/img/rat.jpeg');
     margin-left: 60px;
     background-size: cover;
     border-radius: 20px;
